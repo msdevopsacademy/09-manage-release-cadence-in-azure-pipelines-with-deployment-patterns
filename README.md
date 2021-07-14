@@ -1,4 +1,4 @@
-# Get started with Azure DevOps #
+# Manage release cadence in Azure Pipelines by using deployment patterns #
 
 Sunum dosyalarını **Slides** klasöründe bulabilirsiniz.
 
